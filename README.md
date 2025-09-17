@@ -20,3 +20,4 @@ A simple React + Zustand + react-email powered newsletter builder with live prev
 ```bash
 git clone https://github.com/NwekeFavour/newsletter-composer.git
 cd newsletter-composer
+npm run dev
